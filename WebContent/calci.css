@@ -1,0 +1,23 @@
+body {
+  background-color: #c0c0c0;
+}
+
+
+ .title{ 
+         
+         color:#0000ff; 
+        
+         } 
+  
+         input[type="button"] 
+         { 
+         background-color:#000000; 
+         color: #ffffff; 
+        
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:#00ffff; 
+         
+         } 
